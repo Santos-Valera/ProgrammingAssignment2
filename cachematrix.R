@@ -3,7 +3,9 @@
 ## R Programming. Week 3 Assignment
 ## August 12, 2019; GitHub user: Santos-Valera
 
-## Write a short comment describing this function
+## Can calculate the inverse matrix of a customized matrix, 
+## as well as cache the result. 
+
 
 makeCacheMatrix <- function(x = matrix()) {
   
@@ -22,7 +24,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Function that returns the inverse matrix or the caching matrix result.
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
